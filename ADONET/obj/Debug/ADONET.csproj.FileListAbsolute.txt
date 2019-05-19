@@ -1,0 +1,12 @@
+C:\Users\busra\source\repos\ADONET\ADONET\bin\Debug\ADONET.exe.config
+C:\Users\busra\source\repos\ADONET\ADONET\bin\Debug\ADONET.exe
+C:\Users\busra\source\repos\ADONET\ADONET\bin\Debug\ADONET.pdb
+C:\Users\busra\source\repos\ADONET\ADONET\bin\Debug\EntityFramework.dll
+C:\Users\busra\source\repos\ADONET\ADONET\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\busra\source\repos\ADONET\ADONET\bin\Debug\EntityFramework.xml
+C:\Users\busra\source\repos\ADONET\ADONET\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\busra\source\repos\ADONET\ADONET\obj\Debug\ADONET.csprojAssemblyReference.cache
+C:\Users\busra\source\repos\ADONET\ADONET\obj\Debug\ADONET.csproj.CoreCompileInputs.cache
+C:\Users\busra\source\repos\ADONET\ADONET\obj\Debug\ADONET.csproj.CopyComplete
+C:\Users\busra\source\repos\ADONET\ADONET\obj\Debug\ADONET.exe
+C:\Users\busra\source\repos\ADONET\ADONET\obj\Debug\ADONET.pdb
